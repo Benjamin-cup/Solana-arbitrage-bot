@@ -10,7 +10,7 @@ Based on token price on several dexs, it find prifitable router and confirm tran
 - `mainnet/`: fork mainnet account states to test swap input/output estimates
 
 ## Current version
-This is primary version, not advanced. To get more efficient arbitragy, you need to get advanced version, feel free to reach out of me(Whatsapp: https://wa.me/13137423660 Or Telegram: https://t.me/DevCutup)
+This is primary version, not advanced. To get more efficient arbitragy, you need to get advanced version, feel free to reach out of me((https://t.me/SOLBenjaminCup))
 
 ## Current version dexs supported 
 - serum 
@@ -29,6 +29,8 @@ This is primary version, not advanced. To get more efficient arbitragy, you need
 - orca
 
 ### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/devcutup
+Gmail: benjamin.bigdev@gmail.com
+
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
+
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
