@@ -1,5 +1,5 @@
 # Solana-Arbitrage-Bot
-Based on token price on several dexs, it find prifitable router and confirm transaction.
+A simple Solana onchain arbitrage bot for arbitrage opportunities. This bot calculate the most optimal trade size between various DEX pools on Solana and executes trades when profitable opportunities are found. This repository utilizes the onchain program for executing arbitrage trades.
 
 
 ## Folders description
