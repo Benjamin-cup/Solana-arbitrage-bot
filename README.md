@@ -34,3 +34,5 @@ Gmail: benjamin.bigdev@gmail.com
 Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
 
 Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
+
+Linkedin: [Milan Narkovic](https://www.linkedin.com/in/milan-narkovic-22336639a/)
